@@ -60,14 +60,14 @@ The visual evidence demonstrates a clear reduction in COVID-19 death rates and i
 - PDF Infographics – public-facing insights
   
 ## 📁 Repository Structure
-'''
+```
 covid-vaccination-visualization/
 ├── notebooks/ # Jupyter notebooks for analysis and visualization
 ├── reports/ # Summary reports and infographics
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-'''
+```
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
