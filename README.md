@@ -39,9 +39,13 @@ Infection rates dropped from ~4000 to under 500 cases per 100K population after 
 ## Tools & Technologies
 
 Python
+
 Pandas & NumPy – data manipulation
+
 Matplotlib & Seaborn – visualization
+
 Jupyter Notebook – exploratory analysis
+
 PDF Infographics – public-facing insights
 
 ## 🚀 How to Run the Project
