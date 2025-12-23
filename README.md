@@ -11,29 +11,40 @@ The visual evidence demonstrates a clear reduction in COVID-19 death rates and i
 ## Objectives:
 
 Analyze COVID-19 death rates before and after vaccination rollout
+
 Compare infection trends across states with varying vaccination coverage
+
 Evaluate the impact of booster doses during new variant waves
+
 Communicate insights through clear, policy-friendly visualizations
 
 ## Analytical Approach
 
 ### Data Collection
 Public COVID-19 datasets aggregated by state and time period
+
 Vaccination rates, infection counts, and death counts
 ### Data Processing
 Monthly aggregation of cases and deaths
+
 Normalization by population (rates per 100K where applicable)
+
 Time-based segmentation (pre-vaccination, post-vaccination, booster phase)
 ### Visualization Strategy
 Line charts showing monthly trends
+
 Side-by-side state comparisons
+
 Annotated vaccination milestones and variant periods
 
 ## Key Insights & Findings
 
-Significant decline in COVID-19 death rates observed after vaccination rollout in 2021 across all three states. 
-States with higher vaccination coverage (e.g., New York) showed lower and more stable death rates.
+Significant decline in COVID-19 death rates observed after vaccination rollout in 2021 across all three states
+
+States with higher vaccination coverage (e.g., New York) showed lower and more stable death rates
+
 Despite the emergence of Omicron and new variants, booster doses contributed to controlling mortality trends in 2022
+
 Infection rates dropped from ~4000 to under 500 cases per 100K population after vaccination expansion 
 
 ## Tools & Technologies
@@ -63,8 +74,11 @@ PDF Infographics – public-facing insights
 ## Impact & Relevance:
 
 Supports data-driven public health communication
+
 Demonstrates policy-relevant visualization skills
+
 Highlights the importance of vaccination and booster programs
+
 Suitable for healthcare analytics, epidemiology, and data visualization portfolios
 
 
