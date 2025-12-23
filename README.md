@@ -71,17 +71,13 @@ PDF Infographics – public-facing insights
   jupyter notebook
   notebooks/Effect_of_COVID_19_Vaccination_Data_Visualization.ipynb
 
-## Impact & Relevance:
+## 📌 Impact & Relevance
 
-Supports data-driven public health communication
-
-Demonstrates policy-relevant visualization skills
-
-Highlights the importance of vaccination and booster programs
-
-Suitable for healthcare analytics, epidemiology, and data visualization portfolios
-
-
+- Supports **data-driven public health communication** by translating complex COVID-19 trends into clear, accessible visual insights.
+- Designed as a **social awareness and decision-support analysis**, helping individuals and communities understand the real-world impact of vaccination and booster programs.
+- Demonstrates **policy-relevant data visualization skills**, suitable for informing public health discussions and evidence-based decision-making.
+- Highlights the **importance of vaccination and booster adoption** through comparative, state-level analysis.
+- Well-suited for **healthcare analytics, epidemiology, and data visualization portfolios**.
   
 
 
