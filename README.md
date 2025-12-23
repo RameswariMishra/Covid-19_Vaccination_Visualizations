@@ -58,6 +58,21 @@ The visual evidence demonstrates a clear reduction in COVID-19 death rates and i
 - Jupyter Notebook – exploratory analysis
 
 - PDF Infographics – public-facing insights
+  
+## 📁 Repository Structure
+
+covid-vaccination-visualization/
+│
+├── notebooks/
+│   └── COVID_19_Vaccination_Visualizations.ipynb
+│
+├── reports/
+│   └── Covid_Vaccination_analysis.pdf
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 ## 🚀 How to Run the Project
 
