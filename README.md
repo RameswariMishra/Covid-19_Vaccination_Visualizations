@@ -61,9 +61,14 @@ The visual evidence demonstrates a clear reduction in COVID-19 death rates and i
   
 ## Repository Structure
 ```
-covid-vaccination-visualization/
-├── notebooks/Jupyter notebooks for analysis and visualization
-├── reports/ # Summary reports and infographics
+covid-19_vaccination_visualization/
+│
+├── notebooks/
+│   └── covid-19_vaccination_visualization.ipynb
+│
+├── reports/
+│   └── covid-19_vaccination_visualization.pdf
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
