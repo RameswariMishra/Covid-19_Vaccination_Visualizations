@@ -59,7 +59,7 @@ The visual evidence demonstrates a clear reduction in COVID-19 death rates and i
 
 - PDF Infographics – public-facing insights
   
-## 📁 Repository Structure
+## Repository Structure
 ```
 covid-vaccination-visualization/
 ├── notebooks/ # Jupyter notebooks for analysis and visualization
@@ -68,19 +68,19 @@ covid-vaccination-visualization/
 ├── requirements.txt
 └── .gitignore
 ```
-## 🚀 How to Run the Project
-
+## How to Run the Project
 ### 1. Clone the repository
-   git clone https://github.com/your-username/covid-vaccination-visualization.git
-
+```   git clone https://github.com/your-username/covid-vaccination-visualization.git
+```
 ### 2. Install dependencies
-   pip install -r requirements.txt
-
+```pip install -r requirements.txt
+```
 ### 3. Launch Jupyter Notebook. Open the file and run
-  jupyter notebook
-  notebooks/Effect_of_COVID_19_Vaccination_Data_Visualization.ipynb
-
-## 📌 Impact & Relevance
+```
+jupyter notebook
+notebooks/Effect_of_COVID_19_Vaccination_Data_Visualization.ipynb
+```
+## Impact & Relevance
 
 - Supports **data-driven public health communication** by translating complex COVID-19 trends into clear, accessible visual insights.
 - Designed as a **social awareness and decision-support analysis**, helping individuals and communities understand the real-world impact of vaccination and booster programs.
@@ -88,7 +88,7 @@ covid-vaccination-visualization/
 - Highlights the **importance of vaccination and booster adoption** through comparative, state-level analysis.
 - Well-suited for **healthcare analytics, epidemiology, and data visualization portfolios**.
   
-## ⚠️ Limitations & Future Work
+## Limitations & Future Work
 
 ### Limitations
 - The analysis relies on **aggregated, state-level public health data**, which limits the ability to capture individual-level vaccination outcomes.
@@ -105,3 +105,6 @@ covid-vaccination-visualization/
 - Apply **statistical modeling or causal inference techniques** to better quantify the impact of vaccination and booster doses.
 - Extend the visualization into **interactive dashboards** (e.g., Plotly or Power BI) for enhanced public engagement and policymaker use.
 - Expand the analysis to include **additional states or international comparisons** for broader generalizability.
+
+## Author
+Rameswari Mishra
